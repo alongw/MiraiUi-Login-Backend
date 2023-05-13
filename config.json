@@ -1,0 +1,27 @@
+{
+    "password": "admin123",
+    "port": 6633,
+    "qqlist": [
+        {
+            "id": 1,
+            "name": "测试账号1",
+            "http": "http://10.0.0.200:26668",
+            "qq": "10001",
+            "sessionKey": "abc"
+        },
+        {
+            "id": 2,
+            "name": "测试账号2",
+            "http": "http://www.gov.cn:3333",
+            "qq": "10002",
+            "sessionKey": "admin123"
+        },
+        {
+            "id": 3,
+            "name": "测试账号3",
+            "http": "http://example.com:8080",
+            "qq": "10003",
+            "sessionKey": "123456789"
+        }
+    ]
+}
